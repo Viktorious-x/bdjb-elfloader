@@ -1,6 +1,29 @@
-Just a repo with the BD-J elf loader by [CryoNumb](https://github.com/cryonumb) updated with the latest elfloader.elf by [John Tornblom](https://github.com/ps5-payload-dev)
+## Just a repo with the BD-J elf loader by [CryoNumb](https://github.com/cryonumb) updated with the latest elfloader.elf by [John Tornblom](https://github.com/ps5-payload-dev)
+<br />
+
+## Compiling:
 
 
+### Prerequisites:
+JDK 11 (PS5 uses Java 11 runtime)
+<br />
+Apache Maven
+<br />
+<br />
+
+### CMD:
+
+cd /.../.../.../bdjb-elfloader-main
+<br />
+
+mvn clean install
+<br />
+<br />
+<br />
+<br />
+
+
+## Cryonumb's README
 
 # ELF Loader for BD-J [ps5-jar-loader](https://github.com/hammer-83/ps5-jar-loader)
 
