@@ -1,4 +1,4 @@
-## Just a repo with the BD-J elf loader by [CryoNumb](https://github.com/cryonumb) updated with the latest elfloader.elf by [John Tornblom](https://github.com/ps5-payload-dev)
+## Just a repo with the BD-J elf loader by [CryoNumb](https://github.com/cryonumb) updated with the latest elfloader.elf by [John Tornblom](https://github.com/ps5-payload-dev) and some small tweaks
 <br />
 
 ## Compiling:
